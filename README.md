@@ -28,5 +28,5 @@ Python, Pandas, Scikit-learn, Imbalanced-learn, XGBoost, LightGBM, Matplotlib, S
 Ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
 
 📎 Link Terkait
-* Link Youtube dapat dilihat disini.[]
-* Link PPT dapat dilihat disini.[https://www.canva.com/design/DAGnZjgghj0/iwGQcq2zQeMMMg854jz8tA/edit?utm_content=DAGnZjgghj0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+* Link Youtube dapat dilihat [disini.](https://youtu.be/l5kgT_IKz2c)
+* Link PPT dapat dilihat [disini.](https://www.canva.com/design/DAGnZjgghj0/iwGQcq2zQeMMMg854jz8tA/edit?utm_content=DAGnZjgghj0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
